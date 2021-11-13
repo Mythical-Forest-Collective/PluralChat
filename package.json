@@ -1,0 +1,25 @@
+{
+  "name": "pluralchat-server",
+  "version": "0.0.1",
+  "description": "A chat app made specifically for systems so they can have easier in-system conversations and chat with other plurals!",
+  "main": "index.coffee",
+  "scripts": {
+    "run": "coffee index.coffee",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mythical-Forest-Collective/PluralChatServer.git"
+  },
+  "keywords": [
+    "plural",
+    "system",
+    "chat",
+    "server"
+  ],
+  "author": "Mythical Forest Collective🔮🌲",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mythical-Forest-Collective/PluralChatServer/issues"
+  },
+  "homepage": "https://github.com/Mythical-Forest-Collective/PluralChatServer"
+}
